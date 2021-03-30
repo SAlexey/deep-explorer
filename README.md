@@ -1,5 +1,6 @@
 # deep-explorer
 
+Visualise, debug, learn and explore deep neural networks
 ## Project setup
 ```
 yarn install
@@ -31,4 +32,5 @@ yarn lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
